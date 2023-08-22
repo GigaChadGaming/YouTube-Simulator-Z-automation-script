@@ -3,6 +3,8 @@ A simple python script using pydirectinput to automate playing YouTube Simulator
 
 # How to use
 ## Prerequesites
+Download the YoutubeX.py script.
+
 Make sure you have pydirectinput installed by executing <code>pip install pydirectinput</code> in your terminal.
 
 ## Step 1
