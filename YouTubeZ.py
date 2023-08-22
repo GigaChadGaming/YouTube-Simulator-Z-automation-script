@@ -42,10 +42,11 @@ print("Script running...")
 
 if resInput == 1:
 
-    for x in repeatCount:
+    for x in range(repeatCount):
         time.sleep(2)
 
         pydirectinput.press('1')
+        pydirectinput.moveTo(951, 496)
         for i in range(30):
             pydirectinput.click()
 
@@ -134,8 +135,9 @@ if resInput == 1:
 
 if resInput == 2:
     time.sleep(2)
-    for x in repeatCount:
+    for x in range(repeatCount):
         pydirectinput.press('1')
+        pydirectinput.moveTo(951, 496)
         for i in range(30):
             pydirectinput.click()
 
