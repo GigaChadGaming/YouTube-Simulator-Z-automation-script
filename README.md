@@ -1,5 +1,5 @@
 # YouTube-Simulator-Z-automation-script
-A simple python script using pydirectinput to automate playing YouTube Simulator X on Roblox. This script records, edits videos and makes thumbnails. Support for uploading videos has not been added yet.
+A simple python script using pydirectinput to automate playing YouTube Simulator Z on Roblox. This script records, edits videos and makes thumbnails. Support for uploading videos has not been added yet.
 
 # How to use
 ## Prerequesites
@@ -8,7 +8,7 @@ Download the YoutubeZ.py script.
 Make sure you have pydirectinput installed by executing <code>pip install pydirectinput</code> in your terminal.
 
 ## Step 1
-Open youtube simulator x then position yourself in front of your house as shown in the image below by walking into your house then walking out.
+Open youtube simulator Z then position yourself in front of your house as shown in the image below by walking into your house then walking out.
 ![alt text](https://github.com/GigaChadGaming/YouTube-Simulator-X-automation-script/blob/main/Screenshot%202023-08-21%20221048.png?raw=true)
 
 ## Step 2
