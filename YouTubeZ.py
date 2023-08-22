@@ -47,6 +47,7 @@ if resInput == 1:
 
         pydirectinput.press('1')
         pydirectinput.moveTo(951, 496)
+        pydirectinput.move(1, 1)
         for i in range(30):
             pydirectinput.click()
 
@@ -138,6 +139,7 @@ if resInput == 2:
     for x in range(repeatCount):
         pydirectinput.press('1')
         pydirectinput.moveTo(951, 496)
+        pydirectinput.move(1, 1)
         for i in range(30):
             pydirectinput.click()
 
